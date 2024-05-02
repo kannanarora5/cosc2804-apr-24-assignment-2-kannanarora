@@ -1,5 +1,5 @@
 # Programming Studio 2 (COSC2804) - Assignment 2
-**Student number:** \*\*\*Please place your student number here\*\*\*
+**Student number:** \*\*\*S4001021\*\*\*
 
 This is the README file for Assignment 2 in Programming Studio 2 (COSC2804).
 
