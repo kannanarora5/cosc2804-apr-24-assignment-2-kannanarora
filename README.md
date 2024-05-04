@@ -9,5 +9,5 @@ The only files that you should edit are the *.asm files, and this README.md file
 
 To test an assembly program:
 * Launch a Spigot server and join it, per the [instructions on Canvas](https://rmit.instructure.com/courses/134943/pages/getting-started-with-minecraft++-and-elci?module_item_id=6066599).
-* Assemble the .asm file via laser.
+* Assemble the .asm file via laser..
 * Run `./lc3 program_name.obj`.
